@@ -1,7 +1,7 @@
 # SCI-lite pipeline
 
 ## Introduction
-This repository contais source code for the pipeline in the following paper: Anna Kotrys , Timothy Durham , Xiaoyan Guo , Venkata Vantaku , Sareh Parangi, and Vamsi Mootha. Large-scale, single cell analysis of mtDNA heteroplasmy dynamics reveals key role of environment-dependent selection.
+This repository contais source code for the pipeline in the following paper: Anna Kotrys , Timothy Durham , Xiaoyan Guo , Venkata Vantaku , Sareh Parangi, and Vamsi Mootha. Single-cell analysis reveals context-dependent, cell-level selection of mtDNA. Nature. 2024.
 
 ## Prerequisites
 The code runs on Python 3.9.15
@@ -84,7 +84,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 If you find this work helpful, please cite:
 ```
 @article{kotrys2023nature,
-  title = {Large-scale, single cell analysis of mtDNA heteroplasmy dynamics reveals key role of environment-dependent selection},
+  title = {Single-cell analysis reveals context-dependent, cell-level selection of mtDNA},
   author = {Kotrys, Anna V. and
             Durham, Timothy J. and
             Guo, Xiaoyan A. and
@@ -97,6 +97,6 @@ If you find this work helpful, please cite:
   publisher = {Springer Nature},
   URL = {...},
   eprint = {...},
-  year = {2023},
+  year = {2024},
 }
 ```
