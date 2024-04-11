@@ -83,7 +83,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 If you find this work helpful, please cite:
 ```
-@article{kotrys2023nature,
+@article{kotrys2024nature,
   title = {Single-cell analysis reveals context-dependent, cell-level selection of mtDNA},
   author = {Kotrys, Anna V. and
             Durham, Timothy J. and
