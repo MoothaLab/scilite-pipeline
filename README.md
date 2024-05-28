@@ -92,11 +92,12 @@ If you find this work helpful, please cite:
             Parangi, Sareh  and
             Vamsi, Mootha K.},
   journal = {Nature},
-  elocation-id = {...},
-  doi = {...},
-  publisher = {Springer Nature},
-  URL = {...},
-  eprint = {...},
+  doi = {10.1038/s41586-024-07332-0},
+  publisher = {Springer Science and Business Media LLC},
+  volume = {629},
+  number = {8011},
+  pages = {458--466},
+  month = {may},
   year = {2024},
 }
 ```
